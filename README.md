@@ -9,4 +9,5 @@
 
 
  require(devtools)
+ 
  install_github("cran/ZeBook")
